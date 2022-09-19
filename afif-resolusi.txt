@@ -1,6 +1,6 @@
 Afif resolusi
 - Konsisten untuk belajar setiap malam
 - memahami html css js basic
-- memahami VCS 
 - memahami semua hal tentang front end
 - jadi front end yang handal
+- membuat ruang diskusi
