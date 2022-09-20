@@ -3,5 +3,6 @@ rencana belajar afif
 -javascript
 *mengenai es6
 *framework js
+- structure
 -framework
 - react js
