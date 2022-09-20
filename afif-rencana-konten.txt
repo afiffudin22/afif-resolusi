@@ -4,6 +4,7 @@ rencana belajar afif
 *mengenai es6
 *framework js
   ^view
+  ^reac
 - structure
 -framework
 ^laravel
