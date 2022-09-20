@@ -1,0 +1,7 @@
+rencana belajar afif
+
+-javascript
+*mengenai es6
+*framework js
+-framework
+- react js
